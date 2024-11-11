@@ -2,7 +2,7 @@
 
 Welcome to the repository for my participation in the [Kaggle Home Credit Default Risk competition](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability). This project aims to build a predictive model to evaluate the credit risk of loan applicants.
 
-**Achievement**: I ranked 93rd out of 3,858 participants in the competition.
+**Achievement**: I ranked 93rd out of 3,858 participants in the competition [Kaggle Profile](https://www.kaggle.com/alessandrobenetti).
 
 ## Overview
 
